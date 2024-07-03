@@ -1211,6 +1211,9 @@ font-weight: 100;
     position: relative;
     padding: 0.3vw 1vw;
 }
+.mouseFollower{
+    color: #00ff00;
+}
 
 
 @media (max-width:600px) {
